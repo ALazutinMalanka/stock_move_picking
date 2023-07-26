@@ -1,10 +1,10 @@
 {
-    'name': 'Stock picking source',
-    'version': '16.0.0.1',
+    'name': 'Stock move picking',
+    'version': '16.0.0.2',
     'depends': ['stock'],
     'author': 'Malanka',
     'website': 'https://malanka.eu',
-    'category': 'Category',
+    'category': 'Sales Management',
     'data': [
     ],
 }
